@@ -53,7 +53,6 @@ It transforms raw sports data into **interactive visual insights** to understand
 - Male participation trends  
 - Top male athletes  
 - Sport-wise male performance  
-![Male Dashboard](images/male-athletes-dashboard.png)
 ---
 
 ### 3️⃣ Female Athletes Dashboard
@@ -79,28 +78,38 @@ It transforms raw sports data into **interactive visual insights** to understand
 ### 6️⃣ Bronze Medal Analysis
 - Bronze medal trends and comparisons  
 
+
+---
 ## 📊 Overview Dashboard
 
-![Overview Dashboard](images/overall-dashboard.png)
+<p align="center">
+  <img src="images/overall-dashboard.png" width="750"/>
+</p>
 
 ---
 
 ## 👨 Male Athletes Dashboard
 
-![Male Dashboard](images/male-athletes-dashboard.png)
+<p align="center">
+  <img src="images/male-athletes-dashboard.png" width="750"/>
+</p>
 
 ---
 
 ## 👩 Female Athletes Dashboard
 
-![Female Dashboard](images/female-athletes-dashboard.png)
+<p align="center">
+  <img src="images/female-athletes-dashboard.png" width="750"/>
+</p>
 
 ---
 
 ## 🥇 Gold Medal Dashboard
 
-![Gold Dashboard](images/gold-medal-dashboard.png)
----
+<p align="center">
+  <img src="images/gold-medal-dashboard.png" width="750"/>
+</p>
+
 
 ## 📊 Visualizations Used
 
