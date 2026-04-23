@@ -44,7 +44,10 @@ It transforms raw sports data into **interactive visual insights** to understand
 - Medal tally by country  
 - Top 5 athletes  
 - Gender distribution  
-- Sport-wise participation  
+- Sport-wise participation
+
+  ![Overview Dashboard](images/overall-dashboard.png)
+
 
 ---
 
