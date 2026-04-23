@@ -78,7 +78,7 @@ It transforms raw sports data into **interactive visual insights** to understand
 ### 6️⃣ Bronze Medal Analysis
 - Bronze medal trends and comparisons  
 
-![Overview Dashboard](images/overall-dashboard.png)
+![Overall Dashboard](images/overall-dashboard.png)
 
 ![Male Athletes Dashboard](images/male-athletes-dashboard.png)
 
