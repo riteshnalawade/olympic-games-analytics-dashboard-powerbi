@@ -23,7 +23,11 @@ It transforms raw sports data into **interactive visual insights** to understand
 - Study gender-wise participation (male vs female athletes)  
 - Evaluate country-wise and sport-wise medal distribution  
 - Identify top-performing athletes and nations  
-- Build interactive dashboards using slicers and filters  
+- Build interactive dashboards using slicers and filters
+- Identifying which athelete age group is top performing
+- Identifying how particular sport has performed in terms of participation with time.
+- Analysing least played sport so to emphasise on development of that sport.
+   
 
 ---
 
