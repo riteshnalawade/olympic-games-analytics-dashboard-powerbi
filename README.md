@@ -79,6 +79,27 @@ It transforms raw sports data into **interactive visual insights** to understand
 ### 6️⃣ Bronze Medal Analysis
 - Bronze medal trends and comparisons  
 
+## 📊 Overview Dashboard
+
+![Overview Dashboard](images/overall-dashboard.png)
+
+---
+
+## 👨 Male Athletes Dashboard
+
+![Male Dashboard](images/male-athletes-dashboard.png)
+
+---
+
+## 👩 Female Athletes Dashboard
+
+![Female Dashboard](images/female-athletes-dashboard.png)
+
+---
+
+## 🥇 Gold Medal Dashboard
+
+![Gold Dashboard](images/gold-medal-dashboard.png)
 ---
 
 ## 📊 Visualizations Used
