@@ -46,8 +46,6 @@ It transforms raw sports data into **interactive visual insights** to understand
 - Gender distribution  
 - Sport-wise participation
 
-  ![Overview Dashboard](images/overall-dashboard.png)
-
 
 ---
 
@@ -55,7 +53,7 @@ It transforms raw sports data into **interactive visual insights** to understand
 - Male participation trends  
 - Top male athletes  
 - Sport-wise male performance  
-
+![Male Dashboard](images/male-athletes-dashboard.png)
 ---
 
 ### 3️⃣ Female Athletes Dashboard
