@@ -1,4 +1,7 @@
-# 🏅 Olympic Games Analytics Dashboard (1896–2016)
+# 🏅 Olympic Games Analytics Dashboard 
+
+📌 Dataset link:  
+👉 https://drive.google.com/file/d/1d70lpVziMYACw82Dtmglvx6PackzCwvq/view?usp=drive_link 
 
 ## 📊 Project Overview
 
@@ -96,9 +99,6 @@ It transforms raw sports data into **interactive visual insights** to understand
 - Dataset size: **271,616 rows**  
 - Covers Olympics from **1896–2016**  
 - Includes **Summer and Winter Olympics**  
-
-📌 Dataset link (if not uploaded due to size):  
-👉 Add Google Drive / Kaggle link here  
 
 ---
 
