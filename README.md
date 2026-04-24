@@ -7,7 +7,7 @@
 
 Click below to download the dashboard:
 
-👉 [Download Power BI Dashboard](pbix/olympic-analysis-dashboard-project.pbix)
+👉 [Download Power BI Dashboard](olympic-analysis-dashboard-project.pbix)
 
 Open the file using **Microsoft Power BI Desktop**.
 
