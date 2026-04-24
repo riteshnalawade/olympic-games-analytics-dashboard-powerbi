@@ -3,6 +3,14 @@
 📌 Dataset link:  
 👉 https://drive.google.com/file/d/1d70lpVziMYACw82Dtmglvx6PackzCwvq/view?usp=drive_link 
 
+## 📥 Download Power BI File
+
+Click below to download the dashboard:
+
+👉 [Download Power BI Dashboard](pbix/olympic-analysis-dashboard-project.pbix)
+
+Open the file using **Microsoft Power BI Desktop**.
+
 ## 📊 Project Overview
 
 A comprehensive **Olympic Games Analytics Dashboard** built using Power BI to analyze over a century of Olympic history (1896–2016).
