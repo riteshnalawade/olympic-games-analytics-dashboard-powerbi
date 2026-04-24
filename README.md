@@ -65,31 +65,42 @@ It transforms raw sports data into **interactive visual insights** to understand
 ### 2️⃣ Male Athletes Dashboard
 - Male participation trends  
 - Top male athletes  
-- Sport-wise male performance  
+- Sport-wise male performance
+
+  ![Male Athletes Dashboard](dashboards/male-athletes-dashboard.png)
 ---
 
 ### 3️⃣ Female Athletes Dashboard
 - Female participation trends  
 - Top female athletes  
 - Least participated sports analysis  
-- Gender gap insights  
+- Gender gap insights
+
+  ![Female Athletes Dashboard](dashboards/female-athletes-dashboard.png)
 
 ---
 
 ### 4️⃣ Gold Medal Analysis
 - Country-wise gold medal tally  
 - Year-wise trends  
-- Top gold medal athletes  
+- Top gold medal athletes
+
+  ![Gold Medal Dashboard](dashboards/gold-medal-dashboard.png)
 
 ---
 
 ### 5️⃣ Silver Medal Analysis
-- Silver medal distribution by country and sport  
+- Silver medal distribution by country and sport
+
+  ![Silver Medal Dashboard](dashboards/silver-medal-dashboard.png)
+
 
 ---
 
 ### 6️⃣ Bronze Medal Analysis
-- Bronze medal trends and comparisons  
+- Bronze medal trends and comparisons
+
+![Bronze Medal Dashboard](dashboards/bronze-medal-dashboard.png)
 
 ---
 
