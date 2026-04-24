@@ -91,6 +91,8 @@ It transforms raw sports data into **interactive visual insights** to understand
 
 ### 5️⃣ Silver Medal Analysis
 - Silver medal distribution by country and sport
+- Silver medal distribution by gender
+- which age group dominates more in silver medal category
 
   ![Silver Medal Dashboard](dashboards/silver-medal-dashboard.png)
 
