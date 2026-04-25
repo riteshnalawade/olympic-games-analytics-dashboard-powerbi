@@ -11,7 +11,7 @@ Click below to download the dashboard:
 
 Open the file using **Microsoft Power BI Desktop**.
 
-📄 [View Full Report](olympic-analysis-report.pdf)
+📄 [View Full Report](olympic_analysis_report.pdf)
 
 ## 📊 Project Overview
 
