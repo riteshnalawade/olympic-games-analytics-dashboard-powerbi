@@ -11,6 +11,8 @@ Click below to download the dashboard:
 
 Open the file using **Microsoft Power BI Desktop**.
 
+📄 [View Full Report](olympic-analysis-report.pdf)
+
 ## 📊 Project Overview
 
 A comprehensive **Olympic Games Analytics Dashboard** built using Power BI to analyze over a century of Olympic history (1896–2016).
