@@ -60,7 +60,7 @@ It transforms raw sports data into **interactive visual insights** to understand
 - Gender distribution  
 - Sport-wise participation
   
-![Overview Dashboard](dashboards/overview-dashboard.png)
+![Overview Dashboard](dashboard_images/overview-dashboard.png)
 
 ---
 
@@ -69,7 +69,7 @@ It transforms raw sports data into **interactive visual insights** to understand
 - Top male athletes  
 - Sport-wise male performance
 
-  ![Male Athletes Dashboard](dashboards/male-athletes-dashboard.png)
+  ![Male Athletes Dashboard](dashboard_images/male-athletes-dashboard.png)
 ---
 
 ### 3️⃣ Female Athletes Dashboard
@@ -78,7 +78,7 @@ It transforms raw sports data into **interactive visual insights** to understand
 - Least participated sports analysis  
 - Gender gap insights
 
-  ![Female Athletes Dashboard](dashboards/female-athletes-dashboard.png)
+  ![Female Athletes Dashboard](dashboard_images/female-athletes-dashboard.png)
 
 ---
 
@@ -87,7 +87,7 @@ It transforms raw sports data into **interactive visual insights** to understand
 - Year-wise trends  
 - Top gold medal athletes
 
-  ![Gold Medal Dashboard](dashboards/gold-medal-dashboard.png)
+  ![Gold Medal Dashboard](dashboard_images/gold-medal-dashboard.png)
 
 ---
 
@@ -96,7 +96,7 @@ It transforms raw sports data into **interactive visual insights** to understand
 - Silver medal distribution by gender
 - which age group dominates more in silver medal category
 
-  ![Silver Medal Dashboard](dashboards/silver-medal-dashboard.png)
+  ![Silver Medal Dashboard](dashboard_images/silver-medal-dashboard.png)
 
 
 ---
@@ -104,7 +104,7 @@ It transforms raw sports data into **interactive visual insights** to understand
 ### 6️⃣ Bronze Medal Analysis
 - Bronze medal trends and comparisons
 
-![Bronze Medal Dashboard](dashboards/bronze-medal-dashboard.png)
+![Bronze Medal Dashboard](dashboard_images/bronze-medal-dashboard.png)
 
 ---
 
